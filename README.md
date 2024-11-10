@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning - Credit Fraud Model
+Machine Learning - Bank Customer Churn Prediction
